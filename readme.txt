@@ -6,3 +6,4 @@ Creating a new branch is quick and simple.
 in devi
 quick merge!
 conflict merged dev and master.
+new push
